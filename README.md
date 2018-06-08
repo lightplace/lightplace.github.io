@@ -1,1 +1,0 @@
-# lightplace.github.io

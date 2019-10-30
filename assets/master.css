@@ -5,6 +5,11 @@ body {
 	place-items: center center;
 }
 
+#night {
+	background-color: #212121;
+	color: whitesmoke;
+}
+
 img{ 
     transform-origin:50% 50%;
 	animation:2s rotate infinite linear; 

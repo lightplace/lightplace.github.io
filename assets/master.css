@@ -1,8 +1,9 @@
 body {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-  }
+	display: grid;
+	height: 100vh;
+	margin: 0;
+	place-items: center center;
+}
 
 img{ 
     transform-origin:50% 50%;
